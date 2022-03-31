@@ -1,0 +1,132 @@
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\bin\Debug\ADondeVamos.exe.config
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\bin\Debug\ADondeVamos.exe
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\bin\Debug\ADondeVamos.pdb
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Properties.Resources.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.csproj.GenerateResource.cache
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.exe
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.pdb
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Logueo.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Inicio.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaCrear.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaFiesta.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaMunicipal.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaArtista.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaCarrera.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaTorneo.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\bin\Debug\GMap.NET.Core.dll
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.csproj.CopyComplete
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.csprojAssemblyReference.cache
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Logueo.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Inicio.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaArtista.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaCarrera.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaCrear.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaFiesta.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaMunicipal.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Properties.Resources.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaPartido.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaTorneo.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.csproj.GenerateResource.cache
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.exe
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.pdb
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\bin\Debug\ADondeVamos.exe.config
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\bin\Debug\ADondeVamos.exe
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\bin\Debug\ADondeVamos.pdb
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\bin\Debug\GMap.NET.Core.dll
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.csproj.CopyComplete
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaPartido.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.MapaDelEvento.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.MapaDelEvento.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaCharla.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaOrador.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaBanda.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.Principal.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.Registrarse.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaVerEventoFiesta.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaFiestaEspecifico.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaEquipoJugadores.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaFuncion.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaFuncionAgregar.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.EventosVerActuales.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\bin\Debug\ADondeVamos.exe.config
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\bin\Debug\ADondeVamos.exe
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\bin\Debug\ADondeVamos.pdb
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\bin\Debug\GMap.NET.Core.dll
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\bin\Debug\GMap.NET.WindowsForms.dll
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.csprojAssemblyReference.cache
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.EventosVerActuales.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.MapaDelEvento.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Logueo.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Inicio.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.Principal.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.Registrarse.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaArtista.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaBanda.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaCarrera.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaCharla.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaCrear.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaEquipoJugadores.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaFiesta.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaFiestaEspecifico.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaFuncion.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaFuncionAgregar.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaMunicipal.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Properties.Resources.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaOrador.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaPartido.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaTorneo.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaVerEventoFiesta.resources
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.csproj.GenerateResource.cache
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.csproj.CoreCompileInputs.cache
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.csproj.CopyComplete
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.exe
+D:\narela - mis cosas\Documents\uncaus\ing istemas nare uncaus\SEGUNDO\paradigmas\ESTE 2\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.pdb
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.EventosVerActuales.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.Principal.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.Registrarse.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaBanda.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaCharla.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaEquipoJugadores.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaFiestaEspecifico.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaFuncion.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaFuncionAgregar.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaOrador.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaVerEventoFiesta.resources
+C:\Users\dario\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaAmigos.resources
+C:\Users\Agustin\source\repos\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaAmigos.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\bin\Debug\ADondeVamos.exe.config
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\bin\Debug\ADondeVamos.exe
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\bin\Debug\ADondeVamos.pdb
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\bin\Debug\GMap.NET.Core.dll
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.csprojAssemblyReference.cache
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.EventosVerActuales.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.MapaDelEvento.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Logueo.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Inicio.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.Principal.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.Registrarse.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaAmigos.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaArtista.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaBanda.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaCarrera.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaCharla.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaCrear.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaEquipoJugadores.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaFiesta.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaFiestaEspecifico.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaFuncion.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaFuncionAgregar.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaMunicipal.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Properties.Resources.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaOrador.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaPartido.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.VentanaTorneo.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.Ventanas.VentanaVerEventoFiesta.resources
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.csproj.GenerateResource.cache
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.csproj.CopyComplete
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.exe
+C:\Users\Agustin\Desktop\ADondeVamos\ADondeVamos\obj\Debug\ADondeVamos.pdb

@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5FBA7021-4270-4DC2-8013-65C932FDCEE5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ADondeVamos</RootNamespace>
+    <AssemblyName>ADondeVamos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GMap.NET.Core, Version=1.7.5.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WindowsForms.1.7.5\lib\net40\GMap.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=1.7.5.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WindowsForms.1.7.5\lib\net40\GMap.NET.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\Artista.cs" />
+    <Compile Include="Clases\Banda.cs" />
+    <Compile Include="Clases\Carrera.cs" />
+    <Compile Include="Clases\Charla.cs" />
+    <Compile Include="Clases\Convencion.cs" />
+    <Compile Include="Clases\Desfile.cs" />
+    <Compile Include="Clases\Equipo.cs" />
+    <Compile Include="Clases\Evento.cs" />
+    <Compile Include="Clases\Funcion.cs" />
+    <Compile Include="Clases\GrupoMarchante.cs" />
+    <Compile Include="Clases\Inauguracion.cs" />
+    <Compile Include="Clases\Jugador.cs" />
+    <Compile Include="Clases\Orador.cs" />
+    <Compile Include="Clases\Organizador.cs" />
+    <Compile Include="Clases\Partido.cs" />
+    <Compile Include="Clases\Persona.cs" />
+    <Compile Include="Clases\Sistema.cs" />
+    <Compile Include="Clases\EventoCharla.cs" />
+    <Compile Include="Clases\EventoConcierto.cs" />
+    <Compile Include="Clases\EventoDeportivoCarrera.cs" />
+    <Compile Include="Clases\EventoFiesta.cs" />
+    <Compile Include="Clases\EventoMunicipal.cs" />
+    <Compile Include="Clases\EventoFuncion.cs" />
+    <Compile Include="Clases\EventoDeportivoTorneo.cs" />
+    <Compile Include="Clases\EventoConvencion.cs" />
+    <Compile Include="Ventanas\EventosVerActuales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\EventosVerActuales.Designer.cs">
+      <DependentUpon>EventosVerActuales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\MapaDelEvento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\MapaDelEvento.Designer.cs">
+      <DependentUpon>MapaDelEvento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Registrarse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Registrarse.Designer.cs">
+      <DependentUpon>Registrarse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaAmigos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaAmigos.Designer.cs">
+      <DependentUpon>VentanaAmigos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaArtista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaArtista.Designer.cs">
+      <DependentUpon>VentanaArtista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaBanda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaBanda.Designer.cs">
+      <DependentUpon>VentanaBanda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaCharla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaCharla.Designer.cs">
+      <DependentUpon>VentanaCharla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaCrear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaCrear.Designer.cs">
+      <DependentUpon>VentanaCrear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaEquipoJugadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaEquipoJugadores.Designer.cs">
+      <DependentUpon>VentanaEquipoJugadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaFiesta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaFiesta.Designer.cs">
+      <DependentUpon>VentanaFiesta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaFiestaEspecifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaFiestaEspecifico.Designer.cs">
+      <DependentUpon>VentanaFiestaEspecifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaFuncion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaFuncion.Designer.cs">
+      <DependentUpon>VentanaFuncion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaFuncionAgregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaFuncionAgregar.Designer.cs">
+      <DependentUpon>VentanaFuncionAgregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaMunicipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaMunicipal.Designer.cs">
+      <DependentUpon>VentanaMunicipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Torneo.cs" />
+    <Compile Include="Clases\Usuario.cs" />
+    <Compile Include="Ventanas\Logueo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Logueo.Designer.cs">
+      <DependentUpon>Logueo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ventanas\VentanaCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaCarrera.Designer.cs">
+      <DependentUpon>VentanaCarrera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaOrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaOrador.Designer.cs">
+      <DependentUpon>VentanaOrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaPartido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaPartido.Designer.cs">
+      <DependentUpon>VentanaPartido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaTorneo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaTorneo.Designer.cs">
+      <DependentUpon>VentanaTorneo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Ubicacion.cs" />
+    <Compile Include="Ventanas\VentanaVerEventoFiesta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaVerEventoFiesta.Designer.cs">
+      <DependentUpon>VentanaVerEventoFiesta.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ventanas\EventosVerActuales.resx">
+      <DependentUpon>EventosVerActuales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\MapaDelEvento.resx">
+      <DependentUpon>MapaDelEvento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Logueo.resx">
+      <DependentUpon>Logueo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Registrarse.resx">
+      <DependentUpon>Registrarse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaAmigos.resx">
+      <DependentUpon>VentanaAmigos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaArtista.resx">
+      <DependentUpon>VentanaArtista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaBanda.resx">
+      <DependentUpon>VentanaBanda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaCarrera.resx">
+      <DependentUpon>VentanaCarrera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaCharla.resx">
+      <DependentUpon>VentanaCharla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaCrear.resx">
+      <DependentUpon>VentanaCrear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaEquipoJugadores.resx">
+      <DependentUpon>VentanaEquipoJugadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaFiesta.resx">
+      <DependentUpon>VentanaFiesta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaFiestaEspecifico.resx">
+      <DependentUpon>VentanaFiestaEspecifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaFuncion.resx">
+      <DependentUpon>VentanaFuncion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaFuncionAgregar.resx">
+      <DependentUpon>VentanaFuncionAgregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaMunicipal.resx">
+      <DependentUpon>VentanaMunicipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Ventanas\VentanaOrador.resx">
+      <DependentUpon>VentanaOrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaPartido.resx">
+      <DependentUpon>VentanaPartido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaTorneo.resx">
+      <DependentUpon>VentanaTorneo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaVerEventoFiesta.resx">
+      <DependentUpon>VentanaVerEventoFiesta.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\ADondeVamos.Clases.Banda.datasource" />
+    <None Include="Properties\DataSources\ADondeVamos.Clases.EventoFiesta.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
